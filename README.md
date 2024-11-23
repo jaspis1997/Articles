@@ -2,7 +2,7 @@
 
 ## Project Overview / プロジェクト概要
 
-[Zenn](https://zenn.dev/)や[Qiita](https://qiita.com/)で公開する記事を管理する。
+[Qiita](https://qiita.com/)で公開する記事を管理する。
 
 `Zenn CLI`を使う。 VS Codeの拡張機能も使う。(VS Codeのレコメンドを設定済み)
 
